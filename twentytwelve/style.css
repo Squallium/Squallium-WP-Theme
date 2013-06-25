@@ -1413,27 +1413,6 @@ img#wpstats {
 	margin: 0 auto 1.714285714rem;
 }
 
-/* =Customization
------------------------------------------------ */
-
-/* Sidebar */
-.widget-area .widget {
-	margin-bottom: 16px;
-	margin-bottom: 1rem;
-}
-
-.widget-area .widget h3 {
-	margin-bottom: 0px;
-	margin-bottom: 0rem;
-}
-
-/* Languages */
-li.lang-item {
-	float: left;
-	padding-right: 10px;
-}
-
-
 /* =Media queries
 -------------------------------------------------------------- */
 
