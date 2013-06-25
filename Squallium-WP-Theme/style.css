@@ -1,0 +1,31 @@
+/*
+Theme Name:     Squallium-WP-Theme
+Theme URI:      http://borjarefoyo.com/
+Description:    Child theme for the Twenty Twelve theme
+Author:         Borja Refoyo Ruiz
+Author URI:     http://borjarefoyo.com/
+Template:       twentytwelve                             
+Version:        0.1.0
+*/
+
+@import url("../twentytwelve/style.css");
+
+/* =Customization
+----------------------------------------------- */
+
+/* Sidebar */
+.widget-area .widget {
+	margin-bottom: 16px;
+	margin-bottom: 1rem;
+}
+
+.widget-area .widget h3 {
+	margin-bottom: 0px;
+	margin-bottom: 0rem;
+}
+
+/* Languages */
+li.lang-item {
+	float: left;
+	padding-right: 10px;
+}
